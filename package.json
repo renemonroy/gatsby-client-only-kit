@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-client-only-kit",
+  "name": "@renemn/gatsby-client-only-kit",
   "version": "1.0.0",
   "description": "Monorepo of Gatsby resources for \"client only\" apps.",
   "main": "index.js",
