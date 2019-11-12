@@ -1,0 +1,20 @@
+{
+  "name": "@renemn/gatsby-plugin-client-only-auth",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "@material-ui/core": "^4.6.0",
+    "@material-ui/icons": "^4.5.1",
+    "aws-amplify": "^1.2.4",
+    "gatsby": "^2.17.11",
+    "gatsby-plugin-material-ui": "^2.1.6",
+    "gatsby-plugin-react-helmet": "^3.1.14",
+    "immer": "^5.0.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "react-hook-form": "^3.26.5"
+  }
+}
