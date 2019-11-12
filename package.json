@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/renemonroy/gatsby-client-only-kit/issues"
   },
-  "homepage": "https://github.com/renemonroy/gatsby-client-only-kit#readme"
+  "homepage": "https://github.com/renemonroy/gatsby-client-only-kit#readme",
+  "devDependencies": {
+    "husky": "^3.0.9",
+    "lerna": "^3.18.4",
+    "lint-staged": "^9.4.2",
+    "prettier": "^1.19.1"
+  }
 }
