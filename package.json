@@ -11,8 +11,8 @@
     "url": "git+https://github.com/renemonroy/gatsby-client-only-kit.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "René Monroy <rene.monroy@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/renemonroy/gatsby-client-only-kit/issues"
   },
