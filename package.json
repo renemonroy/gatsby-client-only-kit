@@ -2,6 +2,13 @@
   "name": "@renemn/gatsby-client-only-kit",
   "version": "1.0.0",
   "description": "Monorepo of Gatsby resources for \"client only\" apps.",
+  "author": "René Monroy <rene.monroy@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "plugins/*",
+    "themes/*"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +18,6 @@
     "url": "git+https://github.com/renemonroy/gatsby-client-only-kit.git"
   },
   "keywords": [],
-  "author": "René Monroy <rene.monroy@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/renemonroy/gatsby-client-only-kit/issues"
   },
