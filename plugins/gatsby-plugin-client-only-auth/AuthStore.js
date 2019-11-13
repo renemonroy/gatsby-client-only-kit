@@ -48,7 +48,9 @@ export function AuthProvider({ children, initialDelay = 0 }) {
 
   async function onLoad() {
     try {
-      await asyncDelay(initialDelay);
+      if (initialDelay !== null) {
+        await asyncDelay(initialDelay);
+      }
       const res = await Auth.currentSession();
       if (res && res.idToken) {
         dispatch({ type: SIGN_IN });
